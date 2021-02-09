@@ -23,14 +23,14 @@ order: 1
 <div class="begin-examples"></div>
 
 * 2019 - 2020: **KTH Royal Institute of Technology**, Stockholm, Sweden  
-    Master of Science in Intelligent Autonomous Systems.  
+    Master of Science in Intelligent Autonomous Systems.<br/>
     _EIT Digital excellence scholarship for the Double Degree._
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/kth_logo.png){:.logo}](http://kth.se){:.logo}
 
 
 * 2018 - 2019: **KTH Royal Institute of Technology**, Helsinki, Finland  
-    Master of Science in Autonomous Systems.  
+    Master of Science in Autonomous Systems.<br/>
     _EIT Digital excellence scholarship for the Double Degree._
     
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/aalto_logo.png){:.logo}](http://aalto.fi){:.logo}
@@ -38,7 +38,7 @@ order: 1
 <div style="clear: both;"></div>
 
 * 2015 - 2018: **IMT Atlantique**, Brest, France  
-    IMT Atlantique's Engineering Diploma. GPA 3.91/4 
+    IMT Atlantique's Engineering Diploma. GPA 3.91/4<br/>
     _Ranked in the first 5% among ~200 students._
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/IMT_sq.png){:.logo}](https://www.imt-atlantique.fr/fr){:.logo}
@@ -46,7 +46,7 @@ order: 1
 <div style="clear: both;"></div>
 
 * 2013 - 2015: **Lycée Janson de Sailly**, Paris, France    
-    French Preparatory Cycle for "Grandes Ecoles". 
+    French Preparatory Cycle for "Grandes Ecoles".<br/>
     _Cleared national entrance exams for "Mines-Ponts"._  
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/js_logo.png){:.logo}](https://www.janson-de-sailly.fr/){:.logo}

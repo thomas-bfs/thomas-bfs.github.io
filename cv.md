@@ -24,14 +24,16 @@ order: 1
 
 * 2019 - 2020: **KTH Royal Institute of Technology**, Stockholm, Sweden  
     Master of Science in Intelligent Autonomous Systems.
-    _EIT Digital excellence scholarship with the Double Degree Agreement between Aalto and KTH._
+    
+    _EIT Digital excellence scholarship for the Double Degree._
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/kth_logo.png){:.logo}](http://kth.se){:.logo}
 
 
 * 2018 - 2019: **KTH Royal Institute of Technology**, Helsinki, Finland  
     Master of Science in Autonomous Systems.
-    _EIT Digital excellence scholarship with the Double Degree Agreement between Aalto and IMT Atlantique._
+    
+    _EIT Digital excellence scholarship for the Double Degree._
     
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/aalto_logo.png){:.logo}](http://aalto.fi){:.logo}
 

@@ -8,41 +8,48 @@ order: 1
 
 ## Basic Information
 
-* Nationality: Argentinian  
+* Nationality: French  
 
-* Email: [tobias [*dot*] liaudat [*at*] cea [*dot*] fr](mailto:tobias.liaudat@cea.fr)
+* Email: [omar [*dot*] boufous [*at*] orange [*dot*] com](mailto:omar.boufous@orange.com)
 
-* Address:  
-    Office 272, Building 709,  
-    Service d’Astrophysique, CEA Saclay,  
-    Orme des Merisiers,
-    F-91191 Gif-sur-Yvette, France.
+* Address:   
+    Orange Labs Networks
+    Orange Gardens
+    44 avenue de la République
+    92320 Châtillon, France
 
 ## Education
 
 <div class="begin-examples"></div>
 
-* 2012 - 2019: **Universidad de Buenos Aires (UBA)**, Buenos Aires, Argentina  
-    Electronic Engineering Diploma. GPA: 9.23/10  
-    _Gold Medal eligible._
+* 2019 - 2020: **KTH Royal Institute of Technology**, Stockholm, Sweden  
+    Master of Science in Intelligent Autonomous Systems.
+    _EIT Digital excellence scholarship with the Double Degree Agreement between Aalto and KTH._
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/UBA.png){:.logo}](http://fi.uba.ar){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/kth_logo.png){:.logo}](http://kth.se){:.logo}
+
+
+* 2018 - 2019: **KTH Royal Institute of Technology**, Helsinki, Finland  
+    Master of Science in Autonomous Systems.
+    _EIT Digital excellence scholarship with the Double Degree Agreement between Aalto and IMT Atlantique._
+    
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/aalto_logo.png){:.logo}](http://aalto.fi){:.logo}
 
 <div style="clear: both;"></div>
 
-* 2016 - 2018: **IMT Atlantique**, Brest, France  
-    IMT Atlantique's Engineering Diploma  
-    _Eiffel excellence scholarship with the Double Degree Agreement between IMT Atlantique and UBA._
+* 2015 - 2018: **IMT Atlantique**, Brest, France  
+    IMT Atlantique's Engineering Diploma. GPA
+    _Ranked in the ._
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/IMT_sq.png){:.logo}](https://www.imt-atlantique.fr/fr){:.logo}
 
 <div style="clear: both;"></div>
 
-* 2017 - 2018: **Université de Rennes I**, Rennes, France    
-    Masters degree in Image processing  
-    _Ranked 1st of all Master students._  
+* 2013 - 2015: **Lycée Janson de Sailly**, Paris, France    
+    French Preparatory Cycle for "Grandes Ecoles". 
+    _Cleared national entrance exams for "Mines-Ponts"._  
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/u_rennes_sq.png){:.logo}](https://www.univ-rennes1.fr){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/js_logo.png){:.logo}](https://www.janson-de-sailly.fr/){:.logo}
 
 <!-- <div class="end-examples"></div> -->
 <div style="clear: both;"></div>

@@ -18,5 +18,5 @@ order: 2
 ## Conference proceedings
 
 *  **O. Boufous**, C. Roncoli, T. Charalambous.
-    *Centralized and Distributed Multi-Region Traffic Flow Control* [(HAL)](https://hal.archives-ouvertes.fr/hal-02088466/) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/Poster_spars2019.pdf)  
+    *Centralized and Distributed Multi-Region Traffic Flow Control*
     2020 European Control Conference (ECC), Saint Petersburg, Russia, pp. 420-427.  

@@ -49,11 +49,15 @@ order: 1
     French Preparatory Cycle for "Grandes Ecoles".<br/>
     _Cleared national entrance exams for "Mines-Ponts"._  
 
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/js-logo.png){:.logo}](https://www.janson-de-sailly.fr/){:.logo}
+
+
 * 2010 - 2013: **Lycée Jacques Prévert**, Boulogne-Billancourt, France    
     French Baccalaureat - General Scicenes, European Section.<br/>
     _Graduated with Highest Honours._  
+    
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/LJP.png){:.logo}](http://www.lyc-prevert-boulogne.ac-versailles.fr/){:.logo}
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/js-logo.png){:.logo}](https://www.janson-de-sailly.fr/){:.logo}
 
 <!-- <div class="end-examples"></div> -->
 <div style="clear: both;"></div>

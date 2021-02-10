@@ -67,7 +67,7 @@ order: 1
 
 * Nov 2020 - Present: **Orange**, Paris Region, France  
     Position: Doctoral Researcher.  
-    _Modelling of the PSF (Point Spread function) for the [Euclid](https://www.euclid-ec.org) space mission._  
+    _Correlated Equilibira & Learning._  
     _Academic Supervisors: [Rachid El-Azouzi](https://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en) & [Eitan Altman](https://www-sop.inria.fr/members/Eitan.Altman/)._
 
 
@@ -88,7 +88,7 @@ order: 1
     Position: Intern in the Research & Technology Department   
     _Conception and Development of a cloud platform dedicated to mechanical engineering._  
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/logo_safran.png){:.logo}](http://www.safran-group.com){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/logo_safran.jpg){:.logo}](http://www.safran-group.com){:.logo}
 
 <div style="clear: both;"></div>
 

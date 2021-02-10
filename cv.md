@@ -38,7 +38,8 @@ order: 1
 
 * Spring 2017: **University College London**, London, United Kingdom  
     Exchange Student - Semester abroad at the Faculty of Engineering Sciences.<br/>
-    
+    _Maximal grade A._  
+
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/ucl_logo.png){:.logo}](http://ucl.ac.uk){:.logo}
 
 

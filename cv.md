@@ -56,7 +56,7 @@ order: 1
     French Baccalaureat - General Scicenes, European Section.<br/>
     _Graduated with Highest Honours._  
     
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/LJP.png){:.logo}](http://www.lyc-prevert-boulogne.ac-versailles.fr/){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/LJP.jpg){:.logo}](http://www.lyc-prevert-boulogne.ac-versailles.fr/){:.logo}
 
 
 <!-- <div class="end-examples"></div> -->

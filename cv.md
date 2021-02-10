@@ -49,6 +49,10 @@ order: 1
     French Preparatory Cycle for "Grandes Ecoles".<br/>
     _Cleared national entrance exams for "Mines-Ponts"._  
 
+* 2010 - 2013: **Lycée Jacques Prévert**, Boulogne-Billancourt, France    
+    French Baccalaureat - General Scicenes, European Section.<br/>
+    _Graduated with Highest Honours._  
+
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/js-logo.png){:.logo}](https://www.janson-de-sailly.fr/){:.logo}
 
 <!-- <div class="end-examples"></div> -->
@@ -57,7 +61,7 @@ order: 1
 ## Work Experience
 
 
-* Nov 2019 - Present: **Orange **, Paris Region, France  
+* Nov 2020 - Present: **Orange**, Paris Region, France  
     Position: Doctoral Researcher.  
     _Modelling of the PSF (Point Spread function) for the [Euclid](https://www.euclid-ec.org) space mission._  
     _Academic Supervisors: [Rachid El-Azouzi](https://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en) & [Eitan Altman](https://www-sop.inria.fr/members/Eitan.Altman/)._
@@ -67,7 +71,7 @@ order: 1
 
 <div style="clear: both;"></div>
 
-* Oct 2018 - Jan 2019: **Aalto University**, Helsinki, Finland  
+* Jun 2019 - Jul 2019: **Aalto University**, Helsinki, Finland  
     Position: Research assistant  
     _Research revolving around traffic flow control._  
     _Supervisor: [Themistoklis Charalambous](https://themistoklis.org/)._
@@ -76,20 +80,25 @@ order: 1
 
 <div style="clear: both;"></div>
 
-* Apr 2018 - Sep 2018: **Commissariat à l’Énergie Atomique (CEA)**, Paris Region, France  
-    Position: Last year engineering internship  
-    _Signal processing and sparse blind source separation._  
-    _Supervisor: [Jérôme Bobin](http://jbobin.cosmostat.org) & [Christophe Kervazo](https://www.cosmostat.org/people/christophe-kervazo)._
+* Sept 2017 - Aug 2018: **Safran**, Paris Region, France  
+    Position: Intern in the Research & Technology Department   
+    _Conception and Development of a cloud platform dedicated to mechanical engineering._  
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/CEA_sq.png){:.logo}](http://www.cea.fr){:.logo}
 
 <div style="clear: both;"></div>
 
-* Jul 2017 - Sep 2017: **Safran**, Paris Region, France    
-    Position: Intern in the Research & Technology Department   
-    _Development of a cloud platform for an efficient software engineering._  
+* May 2017 - Jul 2017: **Sequans Communications**, Paris Region, France    
+    Position: Summer Intern in the System Integram Team   
+    _Improvement of the test environment for IoT and Machine-to-Machine devices._  
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/logo_safran.png){:.logo}](https://www.safran-group.com/){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/logo_safran.png){:.logo}](https://www.sequans.com/){:.logo}
+
+* Aug 2016 - Aug 2016: **Institut Mines Telecom Atlantique**, Brest Region, France    
+    Position: R&D Summer Intern  
+    _Development of machine learning algorithms for the analysis of electroencephalogram signals and the diagnosis of epilepsy disorders._ 
+    _Supervisor: [Francesco Andriulli](https://scholar.google.it/citations?user=szBc-d8AAAAJ&hl=it)._
+
 
 <div style="clear: both;"></div>
 

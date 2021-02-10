@@ -8,7 +8,7 @@ order: 0
 ---
 
 <div class="about-image-container">
-  <img src="{{ site.url }}{{ site.baseurl }}{{ site.image_path }}/foto_tobi.jpg" class="about-image">
+  <img src="{{ site.url }}{{ site.baseurl }}{{ site.image_path }}/omar.jpg" class="about-image">
   <span class="about-name">{{ site.myname }}</span><br>
 </div>
 

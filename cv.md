@@ -115,32 +115,34 @@ order: 1
 <div style="clear: both;"></div>
 
 
+<!---
 ## Teaching
-
 * 2020 - 2021: **École Polytechnique**,  Paris Region, France
     Applied Mathematics department, [DepMAP](https://portail.polytechnique.edu/mathematiquesappliquees/fr)  
     The courses:
     - Statistics [MAP433](https://moodle.polytechnique.fr/enrol/index.php?id=9662) for 2nd year engineering cycle students.  
-
+-->
+<!---
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/polytechnique.jpg){:.logo}](https://www.polytechnique.edu/en){:.logo}
-
+-->
+<!---
 <div class="end-examples"></div>
+-->
+<!--- ## Collaborations -->
 
-## Collaborations
-
-Right now, I am part of the [Euclid Consortium](https://www.euclid-ec.org).  
+<!--- Right now, I am part of the [Euclid Consortium](https://www.euclid-ec.org). -->
 
 
-## Reviews
-
+<!--- ## Reviews -->
+<!---
 I reviewed papers for the following journal:  
 * Astronomical Journal from [AAS](https://journals.aas.org/astronomical-journal/) (1 research article).
-
-## Supervision
-
+-->
+<!--- ## Supervision
 * [Jérôme Bonnin](https://www.linkedin.com/in/jérôme-bonnin-338260161/) - Master student, 5 month internship at CosmoStat.  
     _Joint supervision with Jean-Luc Starck._  
     _Working on RCA for CFIS data and multi-CCD RCA._  
+-->
 
 ## Languages
 

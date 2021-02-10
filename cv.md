@@ -23,14 +23,14 @@ order: 1
 <div class="begin-examples"></div>
 
 * 2019 - 2020: **KTH Royal Institute of Technology**, Stockholm, Sweden  
-    Master of Science in Intelligent Autonomous Systems.<br/>
+    Master of Science - 2nd Year, Intelligent Autonomous Systems.<br/>
     _EIT Digital excellence scholarship for the Double Degree._
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/kth_logo.png){:.logo}](http://kth.se){:.logo}
 
 
-* 2018 - 2019: **KTH Royal Institute of Technology**, Helsinki, Finland  
-    Master of Science in Autonomous Systems.<br/>
+* 2018 - 2019: **Aalto University**, Helsinki, Finland  
+    Master of Science - 1st Year, Autonomous Systems.<br/>
     _EIT Digital excellence scholarship for the Double Degree._
     
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/aalto_logo.png){:.logo}](http://aalto.fi){:.logo}

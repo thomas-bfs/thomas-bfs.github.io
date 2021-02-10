@@ -1,10 +1,10 @@
-title: Tobias Liaudat
-description: PhD student in Signal Processing and Machine Learning applied to Astrophysics.
+title: Omar Boufous
+description: PhD student in Game Theory and Machine Learning.
 show_downloads: true
 
-# baseurl: "/tobias-liaudat" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-# url: "https://tobias-liaudat.github.io" # change this to the base hostname & protocol for your site
-# url: "http://localhost:4000/tobias-liaudat"
+# baseurl: "/thomas-bfs" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+# url: "https://thomas-bfs.github.io" # change this to the base hostname & protocol for your site
+# url: "http://localhost:4000/thomas-bfs"
 baseurl: ""
 url: ""
 image_path: /assets/images
@@ -19,21 +19,21 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-myname: Tobias Liaudat
-author: Tobias Liaudat
+myname: Omar Boufous
+author: Omar Boufous
 twitter:
   username:
 github:
-  owner_url: https://github.com/tobias-liaudat
-  owner_name: Tobias Liaudat
+  owner_url: https://github.com/omar-bfs
+  owner_name: Omar Boufous
 linkedin:
-  owner_url: https://www.linkedin.com/in/tobias-liaudat/
-  owner_name: Tobias Liaudat
+  owner_url: https://www.linkedin.com/in/omar-boufous/
+  owner_name: Omar Boufous
 googlescholar:
-  owner_url: https://scholar.google.com/citations?user=5YLM_sEAAAAJ&hl=en&oi=ao
-  owner_name: Tobias Liaudat
+  owner_url: https://scholar.google.com/citations?user=cDeJ1xcAAAAJ&hl=en&oi=ao
+  owner_name: Omar Boufous
 contact:
-  contact_url: mailto:tobias.liaudat@cea.fr
+  contact_url: mailto:omar.boufous@orange.com
 
 
 plugins:

@@ -12,7 +12,7 @@ Check out the interesting tutorials available [here](https://github.com/CosmoSta
 
 ##  Jobs
 
-If you are looking for an internship or a PhD check out the [offers](http://www.cosmostat.org/jobs) at CosmoStat.  
+If you are looking for an internship or a PhD check out the [offers](https://orange.jobs/site/en-home/) at Orange Labs.  
 
 ## Outreach
 
@@ -20,5 +20,4 @@ I gave was invited by the FIUBA to a discuss my international experience on the 
 
 ## Miscellaneous
 
-Check out the page [slides.com](https://slides.com). It allows you to create very nice presentations online that are based on
-[reveal JS](https://revealjs.com) hosted in [GitHub](https://github.com/hakimel/reveal.js/).  
+Check out the page [mathcha.io/](https://www.mathcha.io/). The tools allows to quickly create figures you can export in Latex.  

@@ -24,19 +24,22 @@ The Modelling and Statistical Analysis team is composed of researchers with diff
 
 ## The PhD
 
-Game theory is the umbrella term for the science of logical decision making in humans, animals, and computers. The main motivation of my PhD is to develop distributed learning methods that guarantee convergence to correlated equilibria, which is a core solution concept along with Nash equilibria.
+Game theory is the umbrella term for the science of logical decision making in humans, animals, and computers. The main motivation of the PhD is to develop distributed learning methods that guarantee convergence to correlated equilibria, which is a core solution concept along with Nash equilibria.
 Correlated equilibira were first introduced by Aumann in 1974, and unlike Nash equilibria, they are computationally less expensive: computing a correlated equilibrium only requires solving a linear program. The set of correlated equilibria often characterizes more efficient and optimal collective behavior than the Nash equilibrium solution concept.
 These notions apply to a wide range of situations, and have applications in all fields of social science, as well as in logic, systems science and computer science. 
 
 
 ## Research interests
 
-My main interests are game theory (algorithmic and theoretical), distributed optimization, machine learning and telecommunication networks.
+His main interests are game theory (algorithmic and theoretical), distributed optimization, machine learning and telecommunication networks. In general, I am very much interested in the applied to real-life engineering problems and application.
+His work is interdisciplinary, and includes theoretical concepts from control theory, multi-agent systems and optimization applied to engineering problems.
 
 
 ## Double Degree
 
-I did my double Master's degree in the CosmoStat laboratory under the supervision of [Jérôme Bobin](http://jbobin.cosmostat.org) and [Christophe Kervazo](https://www.cosmostat.org/people/christophe-kervazo).
+Omar Boufous pursued a double Master of Science 
+
+did my double Master's degree in the CosmoStat laboratory under the supervision of [Jérôme Bobin](http://jbobin.cosmostat.org) and [Christophe Kervazo](https://www.cosmostat.org/people/christophe-kervazo).
 We developed a new method coined Distributed GMCA ([DGMCA](https://hal.archives-ouvertes.fr/hal-02426991/)) for tackling large scale sparse Blind Source Separation (BSS) problems where we are not able to scan all the observations simultaneously.
 
 DGMCA is able to parallelise the workload by the use of a clever manifold-based matrix aggregation procedure. It is able to accelerate the widely-used BSS algorithm [GMCA](https://ieeexplore.ieee.org/abstract/document/4337755) (Generalised Morphological Component Analysis) while maintaining the separation performance. On top of that, it can even outperform GMCA under some conditions. [[Thesis PDF]]({{ site.url }}{{ site.baseurl }}/assets/documents/Tesis_IngElectronica_LIAUDAT.pdf)

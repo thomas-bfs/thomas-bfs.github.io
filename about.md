@@ -24,8 +24,8 @@ The Modelling and Statistical Analysis team is composed of researchers with diff
 
 ## The PhD
 
-Game theory is the umbrella term for the science of logical decision making in humans, animals, and computers. The main motivation of the PhD is to develop distributed learning methods that guarantee convergence to correlated equilibria, which is a core solution concept along with Nash equilibria.
-Correlated equilibira were first introduced by Aumann in 1974, and unlike Nash equilibria, they are computationally less expensive: computing a correlated equilibrium only requires solving a linear program. The set of correlated equilibria often characterizes more efficient and optimal collective behavior than the Nash equilibrium solution concept.
+Game theory is the umbrella term for the science of logical decision making in humans, animals, and computers. The main motivation of the PhD is to develop distributed learning methods that guarantee convergence to correlated equilibria, which is a core solution concept in Game Theory, along with Nash equilibria.
+Correlated equilibira were first introduced by Aumann in 1974, and unlike Nash equilibria, they are computationally less expensive - computing a correlated equilibrium only requires solving a linear program. The set of correlated equilibria often characterizes more efficient and optimal collective behavior than the Nash equilibrium solution concept.
 These notions apply to a wide range of situations, and have applications in all fields of social science, as well as in logic, systems science and computer science. 
 
 

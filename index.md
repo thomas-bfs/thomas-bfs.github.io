@@ -6,9 +6,9 @@ tagline: PhD Student in Game Theory and Machine Learning.
 
 ## News
 
-- **(03/12/2020)** Our article _Multi-CCD modelling of the point spread function_ was accepted in the journal [Astronomy and Astrophysics](https://doi.org/10.1051/0004-6361/202039584).
+- **November 2020** Doctoral Researcher at Orange Labs working on learning problematics in Game Theory.
 
-- **(02/10/2020)** Our article _Multi-CCD modelling of the point spread function_ was submitted and the code is [released](https://github.com/CosmoStat/mccd).  
+- **February 2020** Our article _Centralized and Distributed Multi-Region Traffic Flow Control_ was accepted in the [European Control Conference](https://ecc20.eu).
 
 - **November 2019** Completed an exchange training program for Engineering Students at Instituto Superior Técnico, University of Lisboa - Portugal.
 
@@ -18,7 +18,7 @@ tagline: PhD Student in Game Theory and Machine Learning.
 
 - **July 2019** Participated at the EIT Digital Summer School for ‘Data Driven Manufacturing with Industry 4.0’ at the University of Bologna, Italy.
 
-- **December 2018** Accepted journal paper Artificial intelligence, ethics and human values: the cases of military drones and companion robots at the Artificial Life and Robotics.
+- **December 2018** Our article _Artificial intelligence, ethics and human values: the cases of military drones and companion robots_ was accepted at the Artificial Life and Robotics Journal.
 
 - **September 2018** Started the first year of the M.Sc. degree in Autonomous Systems at Aalto University, Helsinki - Finland.
 

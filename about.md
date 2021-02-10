@@ -25,7 +25,8 @@ The Modelling and Statistical Analysis team is composed of researchers with diff
 ## The PhD
 
 Game theory is the umbrella term for the science of logical decision making in humans, animals, and computers. The main motivation of the PhD is to develop distributed learning methods that guarantee convergence to correlated equilibria, which is a core solution concept in Game Theory, along with Nash equilibria. 
-This stives to dervie learning rules and conditions on how players can reach the equilibrium. To this end, the framework of repeated one-shot games is  considered in which players are allowed to revise their strategy over time in response to available information regarding previous plays of the game.
+The framework of repeated one-shot games is considered in which players are allowed to revise their strategy over time in response to available information regarding previous plays of the game, thus allowing learning. The work strives to derive learning mechanisms allowing players to reach the desired equilibrium.
+In general, the work sttemps to clarify the link between the dynamics of the considered games and their link with theoretical concepts used in other fields such as is dynamical systems or control theory.
 
 Correlated equilibira were first introduced by Aumann in 1974, and unlike Nash equilibria, they are computationally less expensive - computing a correlated equilibrium only requires solving a linear program. The set of correlated equilibria often characterizes more efficient and optimal collective behavior than the Nash equilibrium solution concept.
 These notions apply to a wide range of situations, and have applications in all fields of social science, as well as in network systems and computer science. 
@@ -33,7 +34,7 @@ These notions apply to a wide range of situations, and have applications in all 
 
 ## Research interests
 
-His main interests are game theory, distributed optimization, machine learning and telecommunication networks. His work is interdisciplinary, and includes theoretical concepts from control theory, multi-agent systems and optimization applied to various engineering problems.
+Omar Boufous' main interests are game theory, distributed optimization, machine learning and telecommunication networks. His work is interdisciplinary, and includes theoretical notions from control theory, multi-agent systems and optimization applied to various engineering problems.
 
 
 ## Double Degree

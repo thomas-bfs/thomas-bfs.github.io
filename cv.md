@@ -35,6 +35,14 @@ order: 1
     
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/aalto_logo.png){:.logo}](http://aalto.fi){:.logo}
 
+
+* Spring 2017: **University College London**, London, United Kingdom  
+    Exchange Student - Semester abroad at the Faculty of Engineering Sciences.<br/>
+    _Maximal grade A._  
+
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/ucl_logo.png){:.logo}](http://ucl.ac.uk){:.logo}
+
+
 <div style="clear: both;"></div>
 
 * 2015 - 2018: **IMT Atlantique**, Brest, France  

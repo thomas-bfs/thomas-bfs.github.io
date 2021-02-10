@@ -11,16 +11,12 @@ order: 2
 
 ## Journal
 
-* **T. Liaudat**, J. Bonnin, J.-L. Starck, M.A. Schmitz, A. Guinot, M. Kilbinger, S.D.J. Gwyn.  
-    *Multi-CCD modelling of the point spread function* [(DOI)](https://doi.org/10.1051/0004-6361/202039584)[(arXiv)](https://arxiv.org/abs/2011.09835)[(code)](https://github.com/CosmoStat/mccd)  
-    Astronomy and Astrophysics. (Dec. 2020)  
-
-* C. Kervazo, **T. Liaudat**, J. Bobin.  
-    *Faster and better sparse blind source separation through mini-batch optimization* [(HAL)](https://hal.archives-ouvertes.fr/hal-02426991/) [(Elsevier)](https://doi.org/10.1016/j.dsp.2020.102827)  
-    Digital Signal Processing, Elsevier. (Nov. 2020)  
+* T. De Swarte, **O. Boufous**, P. Escalle.  
+    *Artificial intelligence, ethics and human values: the cases of military drones and companion robots* [(DOI)](https://doi.org/10.1007/s10015-019-00525-1)[(Springer)](https://link.springer.com/article/10.1007%2Fs10015-019-00525-1)  
+    Artificial Life & Robotics, Japan. (Dec. 2019)
 
 ## Conference proceedings
 
-*  **T. Liaudat**, C. Kervazo, J. Bobin.  
-    *Distributed sparse BSS for large-scale datasets* [(HAL)](https://hal.archives-ouvertes.fr/hal-02088466/) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/Poster_spars2019.pdf)  
-    SPARS conference, Toulouse, France, 2019.  
+*  **O. Boufous**, C. Roncoli, T. Charalambous.
+    *Centralized and Distributed Multi-Region Traffic Flow Control* [(HAL)](https://hal.archives-ouvertes.fr/hal-02088466/) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/Poster_spars2019.pdf)  
+    2020 European Control Conference (ECC), Saint Petersburg, Russia, pp. 420-427.  

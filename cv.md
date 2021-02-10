@@ -13,9 +13,9 @@ order: 1
 * Email: [omar [*dot*] boufous [*at*] orange [*dot*] com](mailto:omar.boufous@orange.com)
 
 * Address:   
-    Orange Labs Networks
-    Orange Gardens
-    44 avenue de la République
+    Orange Labs Networks<br/>
+    Orange Gardens<br/>
+    44 avenue de la République<br/>
     92320 Châtillon, France
 
 ## Education

@@ -8,8 +8,6 @@ order: 1
 
 ## Basic Information
 
-* Nationality: French  
-
 * Email: [omar [*dot*] boufous [*at*] orange [*dot*] com](mailto:omar.boufous@orange.com)
 
 * Address:   

@@ -88,7 +88,7 @@ order: 1
     Position: Intern in the Research & Technology Department   
     _Conception and Development of a cloud platform dedicated to mechanical engineering._  
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/CEA_sq.png){:.logo}](http://www.cea.fr){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/logo_safran.png){:.logo}](http://www.safran-group.com){:.logo}
 
 <div style="clear: both;"></div>
 
@@ -96,12 +96,14 @@ order: 1
     Position: Summer Intern in the System Integram Team   
     _Improvement of the test environment for IoT and Machine-to-Machine devices._  
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/logo_safran.png){:.logo}](https://www.sequans.com/){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/sequans.jpeg){:.logo}](https://www.sequans.com/){:.logo}
 
 * Aug 2016 - Aug 2016: **Institut Mines Telecom Atlantique**, Brest Region, France    
     Position: R&D Summer Intern  
     _Development of machine learning algorithms for the analysis of electroencephalogram signals and the diagnosis of epilepsy disorders._ 
     _Supervisor: [Francesco Andriulli](https://scholar.google.it/citations?user=szBc-d8AAAAJ&hl=it)._
+    
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/IMT_sq.png){:.logo}](https://www.imt-atlantique.fr/fr){:.logo}
 
 
 <div style="clear: both;"></div>

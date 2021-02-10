@@ -15,25 +15,22 @@ order: 0
 
 ## About me
 
-I was born and raised in Buenos Aires, Argentina. I started my electronic engineering degree at the [University of Buenos Aires](http://fi.uba.ar) and then obtained an [Eiffel](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence) scholarship to continue my studies at the french engineering school or _grande école_ [IMT Atlantique](https://www.imt-atlantique.fr/fr). I also received a [Master's](https://istic.univ-rennes1.fr/master-2-eea-parcours-signal-image-systemes-integres-automatique-sisea-0) degree in image processing from the [University of Rennes I](https://www.univ-rennes1.fr).
-
+Omar Boufous received a M.Eng (Distinction) in Electrical Engineering and Computer Science from Institut Mines Telecom. He was an Exchange Student at the Department of Electrical and Electronic Engineering, Faculty of Engineering Sciences, University College London. He later completed a double M.Sc jointly from Aalto University (Helsinki, Finland) and KTH Royal Institute of Technology (Stockholm, Sweden) specializing in Intelligent Autonomous Systems. He worked as an intern on research-related topics namely at Safran and Astek Research & Innovation Lab.
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/cosmostat_logo.jpg){:.img_float}](http://www.cosmostat.org/)
 
-I am currently a PhD student in Astrophysics and Signal Processing at the [CosmoStat](http://www.cosmostat.org) laboratory, based on the [Astrophysics department](http://irfu.cea.fr/dap/) of the [CEA-Saclay](http://www.cea.fr) research center. My supervisors are [Jean-Luc Starck](http://jstarck.cosmostat.org) and [Martin Kilbinger](http://www.cosmostat.org/people/kilbinger).
+He is currently a Doctoral Researcher in Game Theory and Machine Learning in the Group Modelling and Statistical Analysis at Orange Labs Network, part of the research and development division of the Orange group. My supervisors are [Rachid El-Azouzi](https://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en) and [Eitan Altman](https://scholar.google.com/citations?user=pEfJPS0AAAAJ&hl=en).
 
-The CosmoStat laboratory is composed of researchers with different backgrounds, mostly astrophysics and signal processing, working in synergy to solve the new challenges arriving in Cosmology.
-
-I am one of the CosmoStat's [CosmosClub](http://www.cosmostat.org/category/events/cosmosclub) organiser, our group seminar/journal club. If you are interested in giving a talk and meeting the group feel free to [contact me](mailto:tobias.liaudat@cea.fr).
+The Modelling and Statistical Analysis Group is composed of researchers with different backgrounds, mostly in Machine Learning and Telecommunication Networks, working in synergy to develop new methods and tools for analyzing decision-taking processes using mathematics, computer science & AI. 
 
 ## The PhD
 
-The main motivation of my PhD is to develop a model for Euclid's space mission Point Spread Function (PSF) that will account spatial, spectral and time variations. This model should be able to estimate Euclid's PSF at all the galaxy positions of the satellite's Field of View (FoV) to be able to correct the effect of it on the galaxy shear measurements.
+The main motivation of my PhD is to develop distributed learning methods that guarantee convergence to Correlated equilibria, which are a set of equilibria that can often characterize more efficient and optimal collective behavior than the Nash equilibrium solution concept.
 
-The Euclid satellite, to be launched in 2022, from the European Space Agency ([ESA](https://www.esa.int)) will be able to observe the sky in the optical and infrared, and will be able to map large scale structures and weak lensing distortions out to high redshifts. Weak gravitational lensing is a fundamental tool of cosmology to constrain models. For the mission to be successful the measurements have to be very precise and, therefore, it is vital to have a reliable PSF model.
+A paragraph on CE.
 
 ## Research interests
 
-My main interests are Inverse problems, Image and signal processing, Point Spread Function modelling, machine learning and convex and non-convex optimisation.
+My main interests are game theory (algorithmic and theoretical), distributed optimization, machine learning and telecommunication networks.
 
 
 ## Master Thesis

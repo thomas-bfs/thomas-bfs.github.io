@@ -31,8 +31,7 @@ These notions apply to a wide range of situations, and have applications in all 
 
 ## Research interests
 
-His main interests are game theory, distributed optimization, machine learning and telecommunication networks. In general, I am very much interested in the applied to real-life engineering problems and application.
-His work is interdisciplinary, and includes theoretical concepts from control theory, multi-agent systems and optimization applied to engineering problems.
+His main interests are game theory, distributed optimization, machine learning and telecommunication networks. His work is interdisciplinary, and includes theoretical concepts from control theory, multi-agent systems and optimization applied to various engineering problems.
 
 
 ## Double Degree

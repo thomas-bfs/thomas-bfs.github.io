@@ -31,15 +31,10 @@ These notions apply to a wide range of situations, and have applications in all 
 
 ## Research interests
 
-His main interests are game theory (algorithmic and theoretical), distributed optimization, machine learning and telecommunication networks. In general, I am very much interested in the applied to real-life engineering problems and application.
+His main interests are game theory, distributed optimization, machine learning and telecommunication networks. In general, I am very much interested in the applied to real-life engineering problems and application.
 His work is interdisciplinary, and includes theoretical concepts from control theory, multi-agent systems and optimization applied to engineering problems.
 
 
 ## Double Degree
 
-Omar Boufous pursued a double Master of Science 
-
-did my double Master's degree in the CosmoStat laboratory under the supervision of [Jérôme Bobin](http://jbobin.cosmostat.org) and [Christophe Kervazo](https://www.cosmostat.org/people/christophe-kervazo).
-We developed a new method coined Distributed GMCA ([DGMCA](https://hal.archives-ouvertes.fr/hal-02426991/)) for tackling large scale sparse Blind Source Separation (BSS) problems where we are not able to scan all the observations simultaneously.
-
-DGMCA is able to parallelise the workload by the use of a clever manifold-based matrix aggregation procedure. It is able to accelerate the widely-used BSS algorithm [GMCA](https://ieeexplore.ieee.org/abstract/document/4337755) (Generalised Morphological Component Analysis) while maintaining the separation performance. On top of that, it can even outperform GMCA under some conditions. [[Thesis PDF]]({{ site.url }}{{ site.baseurl }}/assets/documents/Tesis_IngElectronica_LIAUDAT.pdf)
+Omar Boufous pursued the double Master of Science at KTH Royal Institute of Technology and Aalto University as part of the EIT (European Institute of Technology) Digital Master School. The double degree combines strong technical programmes with business-oriented modules (Innovation and Entrepreneurship courses, Summer Schools and Business Development Labs, etc).

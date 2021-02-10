@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Tobias Liaudat
-tagline: PhD student in Signal Processing and Machine Learning applied to Astrophysics.
+title: Omar Boufous
+tagline: PhD Student in Game Theory and Machine Learning.
 ---
 
 ## News
@@ -14,4 +14,4 @@ tagline: PhD student in Signal Processing and Machine Learning applied to Astrop
 
 - **(20/08/2020)** Our article [Faster and better sparse blind source separation through mini-batch optimization](https://doi.org/10.1016/j.dsp.2020.102827) was accepted at the journal Digital Signal Processing from Elsevier.  
 
-Last update: _03/12/2020_
+Last update: _09/02/2020_

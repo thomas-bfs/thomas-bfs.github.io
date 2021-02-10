@@ -49,7 +49,7 @@ order: 1
     French Preparatory Cycle for "Grandes Ecoles".<br/>
     _Cleared national entrance exams for "Mines-Ponts"._  
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/js_logo.png){:.logo}](https://www.janson-de-sailly.fr/){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/js-logo.png){:.logo}](https://www.janson-de-sailly.fr/){:.logo}
 
 <!-- <div class="end-examples"></div> -->
 <div style="clear: both;"></div>
@@ -57,22 +57,22 @@ order: 1
 ## Work Experience
 
 
-* Nov 2019 - Present: **Commissariat à l’Énergie Atomique (CEA)**, Paris Region, France  
-    Position: PhD student.  
+* Nov 2019 - Present: **Orange **, Paris Region, France  
+    Position: Doctoral Researcher.  
     _Modelling of the PSF (Point Spread function) for the [Euclid](https://www.euclid-ec.org) space mission._  
-    _Supervisors: [Jean-Luc Starck](http://jstarck.cosmostat.org) & [Martin Kilbinger](http://www.cosmostat.org/people/kilbinger)._
+    _Academic Supervisors: [Rachid El-Azouzi](https://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en) & [Eitan Altman](https://www-sop.inria.fr/members/Eitan.Altman/)._
 
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/CEA_sq.png){:.logo}](http://www.cea.fr){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/orange_logo.png){:.logo}](http://www.orange.com){:.logo}
 
 <div style="clear: both;"></div>
 
-* Oct 2018 - Jan 2019: **ENSAE Paris**, Paris Region, France  
+* Oct 2018 - Jan 2019: **Aalto University**, Helsinki, Finland  
     Position: Research assistant  
-    _Research assistant in topics around Optimal Transport._  
-    _Supervisor: [Marco Cuturi](https://marcocuturi.net)._
+    _Research revolving around traffic flow control._  
+    _Supervisor: [Themistoklis Charalambous](https://themistoklis.org/)._
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/ensae_sq.png){:.logo}](https://www.ensae.fr){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/aalto_logo.png){:.logo}](https://www.aalto.fi){:.logo}
 
 <div style="clear: both;"></div>
 
@@ -85,11 +85,11 @@ order: 1
 
 <div style="clear: both;"></div>
 
-* Jul 2017 - Sep 2017: **Thales Air Systems**, Paris Region, France    
-    Position: Engineering internship  
-    _Development of a radar performance simulator._  
+* Jul 2017 - Sep 2017: **Safran**, Paris Region, France    
+    Position: Intern in the Research & Technology Department   
+    _Development of a cloud platform for an efficient software engineering._  
 
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/Thales_sq.png){:.logo}](https://www.thalesgroup.com/en){:.logo}
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/logo_safran.png){:.logo}](https://www.safran-group.com/){:.logo}
 
 <div style="clear: both;"></div>
 
@@ -123,19 +123,8 @@ I reviewed papers for the following journal:
 
 ## Languages
 
-* Spanish: Mother tongue
+* French: Mother tongue
 
 * English: Fluent
 
-* French: Fluent
-
-## Awards
-
-* Dec 2017: Distinguished Student  
-    _Universidad de Buenos Aires._
-
-* Mar 2016: [Eiffel Excellence Scholarship](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence)   
-    _Campus France._
-
-* Dec 2011: Gold Medal Award  
-    _St. Luke's College, Argentina. (High school)_
+* Spanish: Fluent

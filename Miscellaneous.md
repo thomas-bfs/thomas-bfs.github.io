@@ -6,9 +6,9 @@ ref: Miscellaneous
 order: 1
 ---
 
-## If interested 
+## Get in touch!
 
-Feel free to get in touch: omar boufous.
+Feel free to contact me: [omar [*dot*] boufous [*at*] orange [*dot*] com](mailto:omar.boufous@orange.com)
 
 
 

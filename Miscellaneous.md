@@ -16,8 +16,8 @@ If you are looking for an internship or a PhD check out the [offers](https://ora
 
 ## Outreach
 
-I gave was invited by the FIUBA to a discuss my international experience on the double degree agreement between FIUBA and IMT Atlantique. The recorded video can be found [here](https://www.youtube.com/watch?v=8gacdM0uvh8&feature=youtu.be) (in spanish).  
+I was invited by the School of Innovation and Entrepreneurship (Turin, Italy) to take part in the Inventor Experience which is a 10-day Bootcamp encouraging innovation and entrepreneurship for engineering students in Europe. The event was broadcasted live on facebook. The video can be found [here](https://www.facebook.com/199732320574181/videos/380805112866572/?__so__=channel_tab&__rv__=all_videos_card).  
 
 ## Miscellaneous
 
-Check out the page [mathcha.io/](https://www.mathcha.io/). The tools allows to quickly create figures you can export in Latex.  
+Check out the page [mathcha.io](https://www.mathcha.io/). The tools allow you to quickly create nice figures, diagrams and drawing you can export in Latex.  
